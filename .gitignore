@@ -1,0 +1,10 @@
+ # Środowisko
+.env
+venv/
+__pycache__/
+
+# Logi
+*.log
+
+# OS
+.DS_Store
